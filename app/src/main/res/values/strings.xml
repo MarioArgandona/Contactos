@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contactos</string>
+    <string name="nombre">Mario Argandoña</string>
+    <string name="telefono">5524930478</string>
+    <string name="email">mario.argandona@gbts.com.mx</string>
+    <string name="variable_nombre">Nombre</string>
+    <string name="variable_telefono">Telefono</string>
+    <string name="variable_email">Email</string>
+    <string name="variable_descripcion">Descripcion</string>
+    <string name="variable_dia">Dia</string>
+    <string name="variable_mes">Mes</string>
+    <string name="variable_anio">Anio</string>
+    <string name="nombre_Contacto">Nombre completo</string>
+    <string name="email_Contacto">Email</string>
+    <string name="telefono_Contacto">Teléfono</string>
+    <string name="descripcion_Contacto">Descripcion contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="titulo_tarjeta">Confirmar Datos</string>
+    <string name="cadena_fecha_naciemiento">Fecha Nacimiento:</string>
+    <string name="cadena_telefono">Tel:</string>
+    <string name="cadena_email">Email:</string>
+    <string name="cadena_descripcion">Descripción:</string>
+</resources>
